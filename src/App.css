@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.person {
+  width: 80%;
+  margin: 80px 220px;
+}
+
+.btn {
+  font-size: 1.1rem;
+  height: 50px;
+  margin-bottom: 20px;
+}
